@@ -4,4 +4,6 @@ basic dice game
 Created using React vite don't forget to add styled dependencies
 deployed link:-
 
-<a href="https://t.ly/y1ACI"> Link </a>
+<a href="https://t.ly/y1ACI" style="color: green;
+  background-color: white;
+  text-decoration: none;"> Link </a>
